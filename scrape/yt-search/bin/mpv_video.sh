@@ -1,4 +1,4 @@
 #!/bin/bash
 
 QUERY="$@"
-mpv "$(yt-search $QUERY)"
+mpv --no-video "$(yt-search $QUERY)"

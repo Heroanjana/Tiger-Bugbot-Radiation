@@ -1,6 +1,6 @@
 /*
 
-› Create By Arlodragon
+› Create By Arlodragon b
 ›  Alone
 
                  
@@ -3350,7 +3350,7 @@ case 'sc': case 'script': case 'repo':
 await inireact()
 
  zetsubo.sendMessage(m.chat, { image: { url: `https://i.imgur.com/jQh5iIT.jpeg` }, caption: 
-`▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱\n\n ❖ 𝑯𝒊 *${pushname}* \n\n ❖ 𝑰 𝒂𝒎 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝐁𝐔𝐆𝐁𝐎𝐓 ☢️.\n\n ❖ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ❖ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ❖𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ❖❖ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ❖ Channel [ https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q ].\n\n ❖ 𝑴𝒂𝒅𝒆 𝑩𝒚 ❖ 𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫 ❖\n\n ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱ ⸼` });
+`┏━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n\n ❖ 𝑯𝒊 *${pushname}* \n\n ❖ 𝑰 𝒂𝒎 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝐁𝐔𝐆𝐁𝐎𝐓 ☢️.\n\n ❖ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ❖ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ❖𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ❖❖ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ❖ Channel [ https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q ].\n\n ❖ 𝑴𝒂𝒅𝒆 𝑩𝒚 ❖ 𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫 ❖\n\n ┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛ ⸼` });
 
    break;
 //=================================================
